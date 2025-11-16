@@ -1,0 +1,62 @@
+# License
+
+## Status: To Be Determined
+
+The AISESA AI Working Group is evaluating licensing options for this toolkit to ensure maximum accessibility while preserving attribution and maintaining African ownership.
+
+## Candidate Licenses Under Consideration:
+
+### Option 1: Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Allows**:
+- Sharing, copying, redistribution
+- Adaptation, remixing, building upon
+
+**Requirements**:
+- Attribution to AISESA AI Working Group
+- Link to license
+- Indication if changes were made
+
+**Best for**: Maximum openness and reuse
+
+**License text**: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+### Option 2: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+**Allows**:
+- Sharing, copying, redistribution
+- Adaptation, remixing, building upon
+
+**Requirements**:
+- Attribution to AISESA AI Working Group
+- Link to license
+- Indication if changes were made
+- **Derivatives must use the same license** (copyleft provision)
+
+**Best for**: Ensuring adaptations remain open and accessible
+
+**License text**: https://creativecommons.org/licenses/by-sa/4.0/
+
+---
+
+## Decision Timeline
+
+The working group will select a license by **Q1 2026**, after consultation with:
+- AISESA member organizations
+- Legal advisors familiar with African IP frameworks
+- Community feedback
+
+## Questions or Input?
+
+If you have expertise in open licensing or perspectives on which license best serves African AI governance goals, please share via [GitHub Discussions](../../discussions) or contact the working group chair.
+
+---
+
+**Temporary Status**: Until a license is formally adopted, materials in this repository are:
+- Shared for working group collaboration and development
+- Not for commercial redistribution without permission
+- Subject to AISESA organizational policies
+
+---
+
+**Last Updated**: November 2025
