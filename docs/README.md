@@ -65,7 +65,7 @@ The **Africa-India Skills and Energy Sector Affiliation (AISESA)** connects ener
 ## Get Involved
 
 - 📧 **Join the conversation**: Contact the AI Working Group chair, Lawrence Agbemabiese
-- 💬 **GitHub Discussions**: Share ideas and ask questions in our [GitHub repository](https://github.com/USERNAME/aig4jeta-governance-toolkit)
+- 💬 **GitHub Discussions**: Share ideas and ask questions in our [GitHub repository](https://github.com/AISESA/aig4jeta-governance-toolkit)
 - 📝 **Contribute**: See our [Contributing Guide](contributing-guide.md)
 - 📢 **Stay updated**: Follow AISESA news and events
 
@@ -75,7 +75,7 @@ The **Africa-India Skills and Energy Sector Affiliation (AISESA)** connects ener
 
 This documentation is continuously evolving. Last updated: **November 2025**
 
-For the authoritative, version-controlled source material, visit our [GitHub repository](https://github.com/USERNAME/aig4jeta-governance-toolkit).
+For the authoritative, version-controlled source material, visit our [GitHub repository](https://github.com/AISESA/aig4jeta-governance-toolkit).
 
 ---
 

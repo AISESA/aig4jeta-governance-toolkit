@@ -161,7 +161,7 @@ These four deliverables lay the foundation for ongoing work:
 
 Ready to contribute? See our [Contributing Guide](contributing-guide.md) or reach out to the AI Working Group chair.
 
-**Questions?** Check our [FAQ](faq.md) or open a discussion on [GitHub](https://github.com/USERNAME/aig4jeta-governance-toolkit/discussions).
+**Questions?** Check our [FAQ](faq.md) or open a discussion on [GitHub](https://github.com/AISESA/aig4jeta-governance-toolkit/discussions).
 
 ---
 

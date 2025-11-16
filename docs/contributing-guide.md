@@ -12,7 +12,7 @@ This guide explains simple ways to get involved, whether you're an energy sector
 **Have you worked with AI in energy systems?** Your real-world experience is invaluable.
 
 - Fill out our [member skills survey](https://link-tbd) when launched
-- Submit a use case using our [simple template](https://github.com/USERNAME/aig4jeta-governance-toolkit/issues/new?template=new-use-case.md)
+- Submit a use case using our [simple template](https://github.com/AISESA/aig4jeta-governance-toolkit/issues/new?template=new-use-case.md)
 - Share challenges and lessons learned
 
 **Time commitment**: 15-30 minutes
@@ -27,7 +27,7 @@ This guide explains simple ways to get involved, whether you're an energy sector
 - Point out confusing explanations or broken links
 - Suggest improvements to documentation
 
-**How**: Open an [issue on GitHub](https://github.com/USERNAME/aig4jeta-governance-toolkit/issues) or email the working group chair
+**How**: Open an [issue on GitHub](https://github.com/AISESA/aig4jeta-governance-toolkit/issues) or email the working group chair
 
 **Time commitment**: As little or much as you like
 **Technical skills needed**: None (we'll help you navigate GitHub if needed)
@@ -41,7 +41,7 @@ This guide explains simple ways to get involved, whether you're an energy sector
 - Use the Ethics Principles to guide project decisions
 - Share what helps and what doesn't
 
-**How**: Use the frameworks and share feedback via [GitHub Discussions](https://github.com/USERNAME/aig4jeta-governance-toolkit/discussions)
+**How**: Use the frameworks and share feedback via [GitHub Discussions](https://github.com/AISESA/aig4jeta-governance-toolkit/discussions)
 
 **Time commitment**: Depends on your use case
 **Technical skills needed**: Familiarity with AI systems (no coding required)
@@ -91,13 +91,13 @@ If you're comfortable with Git and GitHub, here's the workflow:
 3. Make changes in a fork and feature branch
 4. Submit pull request referencing the issue
 
-See the [full CONTRIBUTING.md](https://github.com/USERNAME/aig4jeta-governance-toolkit/blob/main/CONTRIBUTING.md) for detailed technical guidance.
+See the [full CONTRIBUTING.md](https://github.com/AISESA/aig4jeta-governance-toolkit/blob/main/CONTRIBUTING.md) for detailed technical guidance.
 
 ---
 
 ## Community Guidelines
 
-All contributors must follow our [Code of Conduct](https://github.com/USERNAME/aig4jeta-governance-toolkit/blob/main/CODE_OF_CONDUCT.md).
+All contributors must follow our [Code of Conduct](https://github.com/AISESA/aig4jeta-governance-toolkit/blob/main/CODE_OF_CONDUCT.md).
 
 **In short**: Be respectful, inclusive, collaborative, and constructive. We're building this together!
 

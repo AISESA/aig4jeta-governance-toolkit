@@ -108,7 +108,7 @@ See the [Phase 1 Deliverables](phase-1-deliverables.md) for details.
 - **Working group vote** when consensus isn't reached
 - **Documented** in our decision log for transparency
 
-See our [governance processes](https://github.com/USERNAME/aig4jeta-governance-toolkit/blob/main/process/decision-log.md).
+See our [governance processes](https://github.com/AISESA/aig4jeta-governance-toolkit/blob/main/process/decision-log.md).
 
 ### How will you measure success?
 **Quantitatively**:
@@ -138,7 +138,7 @@ The community will help shape Phase 2 priorities.
 ### What license are these materials under?
 We're evaluating **Creative Commons licenses** (CC BY 4.0 or CC BY-SA 4.0) to ensure maximum accessibility while preserving attribution. Decision expected Q1 2026.
 
-See [LICENSE](https://github.com/USERNAME/aig4jeta-governance-toolkit/blob/main/LICENSE) for current status.
+See [LICENSE](https://github.com/AISESA/aig4jeta-governance-toolkit/blob/main/LICENSE) for current status.
 
 ### Can I use these frameworks in my organization?
 **Yes!** Once published, you're free to:
@@ -167,7 +167,7 @@ This is primarily a **frameworks and documentation** project, not a software pro
 
 ## Still Have Questions?
 
-- **Browse existing discussions**: [GitHub Discussions](https://github.com/USERNAME/aig4jeta-governance-toolkit/discussions)
+- **Browse existing discussions**: [GitHub Discussions](https://github.com/AISESA/aig4jeta-governance-toolkit/discussions)
 - **Ask a new question**: Open a discussion or issue
 - **Contact the chair**: Email the AI Working Group chair
 
