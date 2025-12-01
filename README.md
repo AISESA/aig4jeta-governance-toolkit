@@ -49,8 +49,9 @@ Working group operations and decision-making:
 
 ## GitBook Documentation Portal
 
-The **`/docs`** folder backs our public-facing [GitBook documentation site](#) (link TBD).
+The /docs folder backs our public-facing GitBook documentation site (Coming Soon).
 
+🚧 Under Construction: While the public site is being finalized, you can browse the raw documentation directly in the /docs folder of this repository.
 GitBook provides a friendly, accessible view of our work for stakeholders who primarily want to **understand and learn** rather than edit. It includes:
 - Plain-language explainers of governance frameworks
 - Phase 1 deliverables overview
@@ -83,7 +84,7 @@ We welcome contributions from AISESA working group members and the broader commu
 1. **Read** [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed guidance
 2. **Browse** existing issues or create a new one using our [issue templates](.github/ISSUE_TEMPLATE/)
 3. **Fork** this repository and make your changes
-4. **Submit** a pull request with clear description of changes
+4. **Submit** a pull request with a clear description of changes
 
 ### Governance Artifacts
 All governance documents are **living documents** with explicit versioning (e.g., `v0.1`, `v0.2`). Changes follow a review process documented in `CONTRIBUTING.md`.
@@ -117,7 +118,7 @@ This work is licensed under [LICENSE TO BE DETERMINED]. We are evaluating **Crea
 
 - **Working Group Chair**: Lawrence Agbemabiese
 - **AISESA Website**: [https://www.aisesa.org/](https://www.aisesa.org/)
-- **GitBook Documentation**: [Link TBD]
+- **GitBook Documentation**: GitBook Documentation: Coming Soon (See /docs)
 - **Issues & Discussion**: Use GitHub [Issues](../../issues) and [Discussions](../../discussions)
 
 ---
