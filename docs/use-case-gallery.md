@@ -23,16 +23,28 @@ Each use case includes:
 
 ---
 
+## UC-003 – AI-based Planning for Grid-Connected Renewable Integration
+
+- **ID:** UC-003  
+- **Title:** AI-based Planning for Grid-Connected Renewable Integration in an African Power System  
+- **Goal:** Support national or regional planners to integrate higher shares of solar and wind while maintaining reliability, affordability, and energy justice.  
+- **Key actors:** System operator, planning authority, regulators, IPPs, communities, and energy justice advocates.  
+
+👉 **Read the full use case:**  
+[`use-cases/uc-003-grid-renewable-integration-planning.md`](../use-cases/uc-003-grid-renewable-integration-planning.md)
+
+---
+
 ## Future Use Cases
 
 Additional use cases will be added over time, for example:
 
 - Loss detection and reduction in urban distribution networks  
 - AI-supported tariff design and affordability analysis  
-- Renewable integration and grid stability tools  
+- Renewable integration and grid stability tools (operational, not just planning)  
 - Energy access planning and last-mile electrification support  
 
-Once documented, each will receive a unique ID (e.g. UC-002, UC-003) and will be listed here.
+Once documented, each will receive a unique ID (e.g. UC-002, UC-004) and will be listed here.
 
 ---
 
