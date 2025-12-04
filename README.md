@@ -49,9 +49,9 @@ Working group operations and decision-making:
 
 ## GitBook Documentation Portal
 
-The /docs folder backs our public-facing GitBook documentation site (Coming Soon).
+The /docs folder backs our public-facing GitBook documentation site.
 
-🚧 Under Construction: While the public site is being finalized, you can browse the raw documentation directly in the /docs folder of this repository.
+While the public site is being finalized, you can browse the raw documentation directly in the /docs folder of this repository.
 GitBook provides a friendly, accessible view of our work for stakeholders who primarily want to **understand and learn** rather than edit. It includes:
 - Plain-language explainers of governance frameworks
 - Phase 1 deliverables overview
