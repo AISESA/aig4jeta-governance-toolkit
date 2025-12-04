@@ -45,5 +45,13 @@
 
 ---
 
-**Last Updated**: November 2025
+**Last Updated**: December 3, 2025
 **Next Review**: After first working group meeting
+
+### [Date: Today's Date] - Infrastructure Setup
+* **Action:** Created core governance documents.
+* **Details:**
+    * Added `roadmap-phase-1.md` (Nov 2025 – Apr 2027 timeline).
+    * Added `member-survey-draft.md` for skills assessment.
+    * Added `trust-matrix-framework.md` for risk evaluation.
+* **Status:** Completed
