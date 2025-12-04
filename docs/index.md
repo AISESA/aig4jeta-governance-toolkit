@@ -1,4 +1,5 @@
 # AIG4JETA Governance Toolkit
+[Home](index.md) • [TRUST Matrix](trust-matrix.md) • [AI Ethics Principles](ai-ethics-principles.md) • [Use Case Gallery](use-case-gallery.md)
 
 Welcome to the **AI Governance Toolkit for Just Energy Transitions in Africa (AIG4JETA)**, developed by the AISESA AI Working Group.
 
