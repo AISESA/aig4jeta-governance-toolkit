@@ -1,259 +1,81 @@
-# AISESA AI Ethics Principles v0.1
+# AI Ethics Principles v0.1 – African-Centered for Just Energy Transitions
 
-**African-Centered Ethical Guidelines for AI in Energy Transitions**
-
----
-
-## Purpose & Scope
-
-**Purpose**: Establish shared ethical commitments for AI development and deployment in Africa's energy sector, grounded in African values, priorities, and contexts.
-
-**Scope**: These principles apply to:
-- AI systems used in energy generation, transmission, distribution, and consumption
-- Data collection, processing, and decision-making related to energy systems
-- Organizations developing, deploying, or regulating energy sector AI
-- Public and private sector actors across AISESA member countries
-
-**Version**: 0.1 (Draft for Working Group Review)
-**Status**: TODO - Pending working group consultation and stakeholder feedback
-**Last Updated**: November 2025
+**Version:** 0.1 (Draft)  
+**Scope:** Guiding the ethical development, deployment, and governance of Artificial Intelligence (AI) in Africa's energy sector, with a focus on achieving just and equitable energy transitions.
 
 ---
 
-## Core Principles
+## Preamble
 
-### 1. Just Transitions & Equity
-
-**Principle Statement**: TODO - Define commitment to energy justice and equitable AI deployment
-
-**What This Means**:
-- TODO: Ensuring AI benefits marginalized and energy-poor communities
-- TODO: Addressing historical inequities in energy access
-- TODO: Prioritizing local ownership and capacity building
-- TODO: Preventing AI-driven exclusion or discrimination
-
-**In Practice**:
-- TODO: Specific requirements for equity impact assessments
-- TODO: Community consultation requirements
-- TODO: Benefit-sharing mechanisms
-
-**Relationship to TRUST Matrix**: TODO - Map to specific dimensions and levels
+The deployment of AI in Africa's energy sector holds immense potential to accelerate development, enhance efficiency, and expand access. However, it also carries risks of exacerbating existing inequalities, undermining local agency, and creating new forms of harm if not guided by strong ethical principles. These principles are designed to ensure that AI serves the aspirations of African communities for sustainable, equitable, and just energy futures. They are grounded in African values of communal well-being, self-determination, and environmental stewardship.
 
 ---
 
-### 2. Transparency & Accountability
+## Principles
 
-**Principle Statement**: TODO - Define transparency and accountability requirements
+### 1. Energy Justice & Equity
 
-**What This Means**:
-- TODO: Clear documentation of AI systems and their purposes
-- TODO: Explainable decision-making processes
-- TODO: Defined accountability structures and remedies
-- TODO: Public access to relevant information
+**Principle:** AI systems in energy must actively contribute to equitable energy access, affordability, and reliability for all, prioritizing historically underserved communities and avoiding the creation or perpetuation of energy poverty.
 
-**In Practice**:
-- TODO: Documentation standards
-- TODO: Audit requirements
-- TODO: Grievance mechanisms
+**Considerations:**
+- **Affordability:** AI solutions should reduce, not increase, the cost burden on consumers, especially vulnerable households.
+- **Access:** Prioritize AI applications that expand energy access to unserved and underserved populations.
+- **Fair Distribution:** Ensure AI-driven resource allocation or grid management does not disproportionately disadvantage specific regions, demographics, or economic groups.
 
-**Relationship to TRUST Matrix**: TODO - Map to Transparency dimension
+### 2. Human-Centricity & Well-being
 
----
+**Principle:** AI in energy must augment human capabilities, protect human rights, and promote the well-being of individuals and communities, ensuring human oversight and control over critical decisions.
 
-### 3. Data Sovereignty & Privacy
+**Considerations:**
+- **Human Oversight:** Maintain meaningful human control and accountability, especially in high-stakes decisions affecting energy supply, safety, or pricing.
+- **Safety:** Design AI systems to prevent harm to human life, health, and property, with robust safety protocols and fail-safes.
+- **Labor Impact:** Assess and mitigate potential negative impacts on employment and livelihoods within the energy sector, ensuring just transitions for workers.
 
-**Principle Statement**: TODO - Define data governance commitments for African energy data
+### 3. Transparency & Explainability
 
-**What This Means**:
-- TODO: African control over African energy data
-- TODO: Protection of personal and community privacy
-- TODO: Clear data ownership and usage rights
-- TODO: Cross-border data flow governance
+**Principle:** The design, purpose, and decision-making processes of AI systems in energy should be understandable, accessible, and transparent to relevant stakeholders, fostering trust and enabling accountability.
 
-**In Practice**:
-- TODO: Data localization requirements (where appropriate)
-- TODO: Consent and participation frameworks
-- TODO: Data protection standards
+**Considerations:**
+- **Openness:** Clearly communicate the capabilities, limitations, and intended uses of AI systems.
+- **Interpretability:** Provide mechanisms for stakeholders (e.g., regulators, consumers, community leaders) to understand how AI decisions are made, especially those impacting their lives.
+- **Data Provenance:** Document the sources, quality, and biases of data used to train AI models.
 
-**Relationship to TRUST Matrix**: TODO - Map to Safety and Trustability dimensions
+### 4. Accountability & Governance
 
----
+**Principle:** Clear lines of responsibility and robust governance mechanisms must be established for the entire lifecycle of AI systems in energy, ensuring redress for harms and adherence to ethical standards.
 
-### 4. Safety & Reliability
+**Considerations:**
+- **Responsibility:** Assign clear accountability for the design, deployment, and outcomes of AI systems.
+- **Regulatory Compliance:** Adhere to all relevant national and international laws, regulations, and standards.
+- **Redress Mechanisms:** Establish accessible and effective channels for individuals and communities to seek redress for harms caused by AI systems.
 
-**Principle Statement**: TODO - Define safety commitments for energy infrastructure AI
+### 5. Data Privacy & Security
 
-**What This Means**:
-- TODO: Robust testing and validation requirements
-- TODO: Fail-safe mechanisms and human oversight
-- TODO: Environmental and public health protections
-- TODO: Cybersecurity and resilience standards
+**Principle:** Personal and sensitive data collected and processed by AI systems in energy must be handled with the utmost respect for privacy, security, and consent, adhering to robust data protection frameworks.
 
-**In Practice**:
-- TODO: Safety certification processes
-- TODO: Incident reporting requirements
-- TODO: Continuous monitoring obligations
+**Considerations:**
+- **Consent:** Obtain informed consent for data collection and use, particularly for personal or community-level data.
+- **Security:** Implement strong cybersecurity measures to protect AI systems and associated data from breaches, manipulation, and unauthorized access.
+- **Minimization:** Collect and retain only the data strictly necessary for the AI system's intended purpose.
 
-**Relationship to TRUST Matrix**: TODO - Map to Reliability and Safety dimensions
+### 6. Local Relevance & Contextualization
 
----
+**Principle:** AI solutions must be developed and adapted to the specific socio-economic, cultural, and environmental contexts of African regions, leveraging local knowledge and fostering local capacity.
 
-### 5. Capacity Building & Knowledge Sharing
+**Considerations:**
+- **Local Data:** Prioritize the use of relevant local data and ensure models are trained and validated on diverse African datasets.
+- **Capacity Building:** Invest in local AI talent, research, and development to foster self-reliance and innovation.
+- **Cultural Sensitivity:** Ensure AI applications respect local customs, values, and traditional knowledge systems.
 
-**Principle Statement**: TODO - Define commitments to African AI capacity and knowledge commons
+### 7. Sustainability & Environmental Stewardship
 
-**What This Means**:
-- TODO: Investment in African AI expertise and infrastructure
-- TODO: Knowledge transfer and skills development
-- TODO: Open sharing of governance frameworks and tools
-- TODO: Regional collaboration and peer learning
+**Principle:** AI in energy must support environmental sustainability, climate resilience, and the responsible management of natural resources, minimizing its own environmental footprint.
 
-**In Practice**:
-- TODO: Training and education requirements
-- TODO: Technology transfer provisions
-- TODO: Open licensing of governance tools
-
-**Relationship to TRUST Matrix**: TODO - Map to Understandability dimension
+**Considerations:**
+- **Climate Action:** Deploy AI to optimize energy efficiency, integrate renewables, and enhance climate adaptation strategies.
+- **Resource Efficiency:** Minimize the energy consumption and resource intensity of AI models and infrastructure.
+- **Circular Economy:** Promote AI applications that support circular economy principles in the energy sector (e.g., waste reduction, resource recovery).
 
 ---
 
-### 6. Environmental Sustainability
-
-**Principle Statement**: TODO - Define environmental commitments for AI in energy transitions
-
-**What This Means**:
-- TODO: AI supporting renewable energy and climate goals
-- TODO: Minimizing AI systems' own environmental footprint
-- TODO: Alignment with Paris Agreement and AU climate commitments
-- TODO: Long-term ecological stewardship
-
-**In Practice**:
-- TODO: Carbon accounting for AI systems
-- TODO: Renewable energy requirements for AI infrastructure
-- TODO: E-waste and lifecycle management
-
-**Relationship to TRUST Matrix**: TODO - Map to Safety and Trustability dimensions
-
----
-
-### 7. Cultural Context & Indigenous Knowledge
-
-**Principle Statement**: TODO - Define respect for African cultures and knowledge systems
-
-**What This Means**:
-- TODO: Recognition of diverse African contexts and values
-- TODO: Integration of indigenous and traditional knowledge
-- TODO: Culturally appropriate design and deployment
-- TODO: Multilingual and multi-modal accessibility
-
-**In Practice**:
-- TODO: Cultural impact assessments
-- TODO: Indigenous knowledge protocols
-- TODO: Localization requirements
-
-**Relationship to TRUST Matrix**: TODO - Map to Understandability and Trustability dimensions
-
----
-
-## Applying These Principles in AI Projects
-
-### Assessment Framework
-TODO: Step-by-step guide for assessing AI project alignment with principles
-
-**Phase 1: Design**
-- TODO: Principle checklist for project design
-- TODO: Stakeholder identification and engagement plan
-- TODO: Equity and justice impact assessment
-
-**Phase 2: Development**
-- TODO: Technical implementation of principles
-- TODO: Documentation and transparency requirements
-- TODO: Safety and testing protocols
-
-**Phase 3: Deployment**
-- TODO: Community consultation and consent
-- TODO: Monitoring and evaluation framework
-- TODO: Accountability mechanisms
-
-**Phase 4: Operation & Iteration**
-- TODO: Continuous improvement processes
-- TODO: Incident response and remedy
-- TODO: Periodic principle reassessment
-
----
-
-## Relationship to TRUST Matrix
-
-The TRUST Matrix provides a **practical assessment tool** for operationalizing these ethical principles.
-
-**Mapping Logic**: TODO - Detailed explanation of how principles map to TRUST dimensions
-
-| Ethical Principle | Primary TRUST Dimensions | Minimum Level Required |
-|-------------------|--------------------------|------------------------|
-| Just Transitions & Equity | TODO | TODO |
-| Transparency & Accountability | Transparency, Trustability | TODO |
-| Data Sovereignty & Privacy | Safety, Trustability | TODO |
-| Safety & Reliability | Safety, Reliability | TODO |
-| Capacity Building | Understandability | TODO |
-| Environmental Sustainability | Safety, Trustability | TODO |
-| Cultural Context | Understandability, Trustability | TODO |
-
-TODO: Complete mapping and define minimum TRUST levels for different use case categories
-
----
-
-## Governance & Enforcement
-
-### Who Enforces These Principles?
-TODO: Define governance structures and accountability mechanisms
-
-- Working group oversight role
-- Member organization commitments
-- Regional and national regulatory alignment
-- Third-party certification and auditing
-
-### Remedies for Violations
-TODO: Define remedy mechanisms for principle violations
-
-### Periodic Review
-These principles will be reviewed and updated [FREQUENCY TBD] based on:
-- Emerging AI technologies and practices
-- Lessons learned from implementation
-- Stakeholder feedback and consultation
-- Evolving African policy and regulatory landscape
-
----
-
-## Version History
-
-| Version | Date | Changes | Contributors |
-|---------|------|---------|--------------|
-| 0.1 | Nov 2025 | Initial draft structure | Lawrence Agbemabiese |
-
----
-
-## Next Steps for v0.2
-
-- [ ] Complete principle statements and definitions
-- [ ] Validate with working group members
-- [ ] Map detailed connections to TRUST Matrix
-- [ ] Develop practical implementation guides
-- [ ] Conduct stakeholder consultation
-- [ ] Align with AU AI Continental Strategy and regional frameworks
-
----
-
-## References & Alignment
-
-TODO: Document alignment with:
-- African Union AI Continental Strategy
-- UN Sustainable Development Goals (SDG 7, 13, etc.)
-- Paris Agreement on Climate Change
-- IEEE Ethically Aligned Design
-- EU AI Act (for comparison/harmonization)
-- National AI policies from AISESA member countries
-
----
-
-**Status**: DRAFT - Awaiting working group validation
-**Feedback**: Please use [GitHub Issues](../../issues) to suggest changes or improvements
+*These principles are intended to be living documents, subject to iterative review and refinement by the AISESA AI Working Group and broader stakeholder engagement.*
