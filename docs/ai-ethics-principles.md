@@ -1,4 +1,5 @@
 # AI Ethics Principles for Just Energy Transitions in Africa – Overview
+[Home](index.md) • [TRUST Matrix](trust-matrix.md) • [AI Ethics Principles](ai-ethics-principles.md) • [Use Case Gallery](use-case-gallery.md)
 
 These **AI Ethics Principles** are designed to guide the responsible use of Artificial Intelligence in Africa’s energy sector, with a focus on **just and equitable energy transitions**.
 
