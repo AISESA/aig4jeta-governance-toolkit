@@ -32,7 +32,7 @@ Learn about our initial 12-18 month priorities, including:
 * AI ethics principles
 * Inaugural public webinar
 
-### 📊 [TRUST Matrix Explainer](trust-matrix-explainer.md)
+### 📊 [TRUST Matrix Explainer](trust-matrix.md)
 
 Understand our flagship framework for assessing AI governance requirements across five dimensions:
 
