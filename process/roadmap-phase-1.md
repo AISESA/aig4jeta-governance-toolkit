@@ -248,6 +248,6 @@ Phase 1 establishes the core frameworks, evidence base, and community needed for
 
 ---
 
-**Version**: 0.1
-**Last Updated**: November 2025
-**Next Review**: End of Q1 2026
+Version: 0.2  
+Last Updated: December 2025  
+Next Review: End of Q2 2026
