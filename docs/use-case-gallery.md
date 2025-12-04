@@ -1,4 +1,5 @@
 # Use Case Gallery – AI in Just Energy Transitions
+[Home](index.md) • [TRUST Matrix](trust-matrix.md) • [AI Ethics Principles](ai-ethics-principles.md) • [Use Case Gallery](use-case-gallery.md)
 
 This gallery showcases documented AI use cases in Africa’s energy sector, using the **AIG4JETA Use Case Template** and the **TRUST Matrix**.
 
