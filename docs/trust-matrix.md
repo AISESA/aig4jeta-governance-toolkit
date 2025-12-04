@@ -1,4 +1,5 @@
 # TRUST Matrix – Overview
+[Home](index.md) • [TRUST Matrix](trust-matrix.md) • [AI Ethics Principles](ai-ethics-principles.md) • [Use Case Gallery](use-case-gallery.md)
 
 The **TRUST Matrix** is AISESA’s practical framework for assessing AI use cases in Africa’s energy sector. It helps teams think beyond technical performance and ask:  
 
