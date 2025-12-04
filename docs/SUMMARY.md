@@ -6,3 +6,5 @@
 * [Phase 1 Deliverables (Nov 2025 - Apr 2027)](phase-1-deliverables.md)
 * [The TRUST Matrix](trust-matrix.md)
 * [Use Case Gallery](use-case-gallery.md)
+* [FAQ](faq.md)
+* [AI Ethics Principles](ai-ethics-principles.md)
